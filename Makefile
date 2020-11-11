@@ -1,2 +1,2 @@
 deploy:
-	git subtree push --prefix Assets/Packages/metervara.pan-zoom-orbit origin release
+	git subtree push --prefix Packages/metervara.pan-zoom-orbit origin release
