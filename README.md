@@ -11,3 +11,7 @@ To include in a project add the following to the manifest file:
 Or add it using the git option in the package manager. 
 
 **Make sure to target the #release branch, since the master branch contains an entire Unity project**
+
+### Credit
+
+[Zoom implementation adapted from here](https://stackoverflow.com/a/44418717/3729686)
