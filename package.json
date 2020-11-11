@@ -1,0 +1,15 @@
+{
+    "name": "metervara.pan-zoom-orbit",
+    "version": "1.0.0",
+    "displayName": "Pan Zoom Orbit",
+    "description": "Simple controls for panning, zooming and orbiting a camera",
+    "unity": "2020.1",
+    "unityRelease": "6f1",
+   "keywords": [
+      "camera"
+    ],
+    "author": {
+      "name": "Patrik Svensson",
+      "email": "ps@molamil.com"
+    }
+  }
